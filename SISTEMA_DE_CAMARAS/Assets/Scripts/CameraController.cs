@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class CameraController : MonoBehaviour
 {
-    public GameObject[] listaCamaras;
+    public GameObject[] listaCamaras; //Esta es el tamaño de la lista que vas a generar.
     public Text positionText;
     public Text rotationText;
     public Text scaleText;
